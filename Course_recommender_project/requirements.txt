@@ -4,10 +4,4 @@ streamlit==1.17.0
 streamlit-aggrid==0.2.2-2
 scikit-learn==1.2.1
 # https://stackoverflow.com/questions/61062303/deploy-python-app-to-heroku-slug-size-too-large
-tensorflow-cpu==2.7.0
-numpy
-pandas
-sklearn
-scikit-learn
-streamlit
-streamlit-aggrid==0.2.2-2
+tensorflow-cpu==2.8.0
