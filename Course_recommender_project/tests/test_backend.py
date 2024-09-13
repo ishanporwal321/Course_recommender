@@ -1,24 +1,10 @@
-'''This module tests the functions in the module backend.py.
 
-Note that the testing configuration fixtures
-are located in `conftest.py`.
 
-To install pytest:
->> pip install -U pytest
-
-The script expects the proper datasets to be located in `./data`.
-
-Author: Mikel Sagardia
-Date: 2023-02-15
-'''
-
-#import os
-#from os import listdir
-#import numpy as np
+import os
+from os import listdir
+import numpy as np
 import pytest
 
-# IMPORTANT: the file conftest.py defines the fixtures used in here
-# and it contains the necessary imports!
 
 ### -- Tests -- ###
 
