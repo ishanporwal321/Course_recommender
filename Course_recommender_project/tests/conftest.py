@@ -1,11 +1,3 @@
-'''Testing configuration module for Pytest.
-This file is read by pytest and the fixtures
-defined in it are used in all the tested files.
-
-Author: Mikel Sagardia
-Date: 2023-02-15
-'''
-
 import pytest
 
 #import logging
