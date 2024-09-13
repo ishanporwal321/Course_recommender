@@ -1,15 +1,3 @@
-"""This module implements a Streamlit app
-which runs different Recommender Systems
-that suggest new AI courses to a user
-that pre-selects some topics.
-
-This module uses the backend.py file,
-where most of the machine learning
-functionalities are implemented.
-
-Author: Mikel Sagardia
-Date: 2023-02-07
-"""
 import streamlit as st
 import pandas as pd
 import time
