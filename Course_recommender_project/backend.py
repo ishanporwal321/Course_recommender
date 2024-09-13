@@ -1,21 +1,3 @@
-"""This module is the backend of a Streamlit app
-which runs different Recommender Systems
-that suggest new AI courses to a user
-that pre-selects some topics.
-
-WARNING: In a more production-like environment
-the backend would use a library/package
-where models definition & training is implemented.
-However, here, for the sake of simplicity,
-everything is packed in the backend.
-
-Also, note that there are several issues
-marked with a FIXME tag.
-
-Author: Mikel Sagardia
-Date: 2023-02-07
-"""
-
 from os.path import isfile
 import pandas as pd
 import numpy as np
